@@ -28,6 +28,13 @@ https://hiccup06.github.io/tweaks/<PLUGIN_NAME>/
 
   **Original authors:** maisy and シグマ siguma.
 
+  **Modified & fixed by:** Hiccup.
+
+-
+[Message Logger](https://hiccup06.github.io/tweaks/message-logger/) - Temporarily logs deletions for moderation purposes.
+
+  **Original author:** redstonekasi.
+
   **Modified by:** Hiccup.
 
 ---
