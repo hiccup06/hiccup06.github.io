@@ -1,0 +1,24 @@
+{
+  "name": "More Alts!",
+  "description": "tweak bro.",
+  "authors": [
+    {
+      "name": "Win8.1VMUser",
+      "id": "793935599702507542"
+    },
+    {
+      "name": "John"
+    },
+    {
+      "name": "cocobo1"
+    },
+    {
+      "name": "hiccup06"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_full_server_gating_24px"
+  },
+  "hash": "63edd6342c25509891d0da0c9d8df11da18aa69e8a30467dfd392d239ac88da1"
+}
