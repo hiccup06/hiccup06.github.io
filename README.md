@@ -36,9 +36,9 @@ https://hiccup06.github.io/tweaks/<PLUGIN_NAME>/
 
   **Modified by:** Hiccup.
 
-- [Browser](https://hiccup06.github.io/plugins/browser/) - Temporarily logs deletions for moderation purposes.
+- [Browser](https://hiccup06.github.io/plugins/browser/) - Adds a built-in browser to Discord using their own WebView.
 
-  **Author: Hiccup** .
+  **Author:** Hiccup.
 
 ---
 
