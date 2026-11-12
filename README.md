@@ -36,6 +36,10 @@ https://hiccup06.github.io/tweaks/<PLUGIN_NAME>/
 
   **Modified by:** Hiccup.
 
+- [Browser](https://hiccup06.github.io/plugins/browser/) - Temporarily logs deletions for moderation purposes.
+
+  **Author: Hiccup** .
+
 ---
 
 ### Maintainer
