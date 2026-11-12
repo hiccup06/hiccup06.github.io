@@ -10,7 +10,7 @@ For plugins:
 ```
 https://hiccup06.github.io/plugins/<PLUGIN_NAME>/
 ```
-For tweaks:
+For forks & tweaks:
 ```
 https://hiccup06.github.io/tweaks/<PLUGIN_NAME>/
 ```
