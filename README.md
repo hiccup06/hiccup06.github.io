@@ -4,7 +4,7 @@ My plugins and modifications for Revenge.
 
 ## How to install?
 
-Copy a plugin URL and paste it into the Plugins page in Revenge.
+Copy a plugin or tweak URL and paste it into the Plugins page in Revenge.
 
 For plugins:
 ```
