@@ -17,7 +17,7 @@ https://hiccup06.github.io/tweaks/<PLUGIN_NAME>/
 
 ## Plugins
 
-- [More Alts!](https://hiccup04.github.io/Hiccup-Plugins/MoreAlts/) - A modified version of More Alts, originally made by Win8.1VMUser, John and cocobo1.
+- [More Alts!](https://hiccup06.github.io/tweaks/MoreAlts/) - A modified version of More Alts, originally made by Win8.1VMUser, John and cocobo1.
 
   **Original authors:** Win8.1VMUser, John and cocobo1.
 
