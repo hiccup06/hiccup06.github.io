@@ -6,9 +6,13 @@ My plugins and modifications for Revenge.
 
 Copy a plugin URL and paste it into the Plugins page in Revenge.
 
-The URL format is:
+For plugins:
 ```
-https://hiccup04.github.io/Hiccup-Plugins/<PLUGIN_NAME>/
+https://hiccup04.github.io/plugins/<PLUGIN_NAME>/
+```
+For tweaks:
+```
+https://hiccup04.github.io/tweaks/<PLUGIN_NAME>/
 ```
 
 ## Plugins
